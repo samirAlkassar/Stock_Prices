@@ -1,0 +1,3 @@
+This implementation of a stack uses a list to store the items. The is_empty() function checks if the list is empty. The push() function adds an item to the end of the list. The pop() function removes and returns the last item in the list. The peek() function returns the last item in the list without removing it. The size() function returns the number of items in the list.
+
+This code creates a new stack object, pushesthree items onto the stack, and then prints the result of calling the pop(), peek(), and size() methods. The output should be 30, 20, and 2, respectively.
