@@ -1,4 +1,4 @@
-class Stack:
+class Stack: #this code is to mimplemet the stack probelem
     def __init__(self):
         self.items = []
 
